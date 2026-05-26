@@ -1,0 +1,10 @@
+{
+  "id": "claude-obsidian",
+  "name": "Claude AI",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Integrate Claude AI into your Obsidian vault.",
+  "author": "agricidaiel",
+  "authorUrl": "https://github.com/agricidaiel",
+  "isDesktopOnly": false
+}
